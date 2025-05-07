@@ -310,13 +310,23 @@ def listar_menu_items():
     )
 
 def crear_menu_item():
+    print("\n--- Crear Menú Item ---")
+
+    rid = select_restaurant()
+    if not rid:
+        print("❌ Debes seleccionar un restaurante primero.")
+        return
+
+
     mi = {
-        "restaurant_id": input("restaurant_id: "),
+        "restaurant_id": rid,
         "name": input("name: "),
         "description": input("description: "),
         "price": float(input("price: ")),
-        "available": input("available (True/False): ").lower() in ("true","1","yes")
+        "available": input("available (True/False): ").strip().lower() in ("true","1","yes")
     }
+
+    
     r = requests.post(f"{API}/menu_items/", json=mi)
     print(json.dumps(r.json(), indent=2))
 
