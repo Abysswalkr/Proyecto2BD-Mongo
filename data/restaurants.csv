@@ -1,0 +1,6 @@
+name,address,phone,latitude,longitude,cuisine,opening_time,closing_time
+La Buena Mesa,Avenida Central 123,555-1234,14.56789,-90.12345,Internacional,10:00,22:00
+Sabor Mexicano,Calle de Enfrente 45,555-5678,14.57,-90.12,Mexicana,09:00,23:00
+El Rincón,Boulevard Sur 78,555-9012,14.56,-90.13,Tapas,11:00,21:00
+Café Sol,Plaza Mayor 10,555-3456,14.58,-90.11,Café,07:00,19:00
+Pasta House,Calle Italia 77,555-7890,14.565,-90.125,Italiana,12:00,22:00

@@ -1,0 +1,51 @@
+restaurant_id,name,description,price,available
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 1,Delicious La Buena Mesa Dish 1,6.58,False
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 2,Delicious La Buena Mesa Dish 2,18.69,True
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 3,Delicious La Buena Mesa Dish 3,15.36,False
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 4,Delicious La Buena Mesa Dish 4,10.53,True
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 5,Delicious La Buena Mesa Dish 5,6.77,False
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 6,Delicious La Buena Mesa Dish 6,17.77,False
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 7,Delicious La Buena Mesa Dish 7,18.12,False
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 8,Delicious La Buena Mesa Dish 8,18.09,True
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 9,Delicious La Buena Mesa Dish 9,18.84,False
+68199a10b7ac27f370bc0f65,La Buena Mesa Dish 10,Delicious La Buena Mesa Dish 10,10.44,True
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 1,Delicious Sabor Mexicano Dish 1,15.38,True
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 2,Delicious Sabor Mexicano Dish 2,14.64,False
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 3,Delicious Sabor Mexicano Dish 3,11.44,False
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 4,Delicious Sabor Mexicano Dish 4,14.46,False
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 5,Delicious Sabor Mexicano Dish 5,12.44,True
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 6,Delicious Sabor Mexicano Dish 6,9.1,True
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 7,Delicious Sabor Mexicano Dish 7,19.43,False
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 8,Delicious Sabor Mexicano Dish 8,15.76,True
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 9,Delicious Sabor Mexicano Dish 9,19.12,True
+68199a10b7ac27f370bc0f66,Sabor Mexicano Dish 10,Delicious Sabor Mexicano Dish 10,13.09,False
+68199a10b7ac27f370bc0f67,El Rincón Dish 1,Delicious El Rincón Dish 1,15.77,False
+68199a10b7ac27f370bc0f67,El Rincón Dish 2,Delicious El Rincón Dish 2,11.18,True
+68199a10b7ac27f370bc0f67,El Rincón Dish 3,Delicious El Rincón Dish 3,16.62,False
+68199a10b7ac27f370bc0f67,El Rincón Dish 4,Delicious El Rincón Dish 4,12.61,True
+68199a10b7ac27f370bc0f67,El Rincón Dish 5,Delicious El Rincón Dish 5,13.95,True
+68199a10b7ac27f370bc0f67,El Rincón Dish 6,Delicious El Rincón Dish 6,5.23,True
+68199a10b7ac27f370bc0f67,El Rincón Dish 7,Delicious El Rincón Dish 7,15.02,False
+68199a10b7ac27f370bc0f67,El Rincón Dish 8,Delicious El Rincón Dish 8,5.76,False
+68199a10b7ac27f370bc0f67,El Rincón Dish 9,Delicious El Rincón Dish 9,19.96,True
+68199a10b7ac27f370bc0f67,El Rincón Dish 10,Delicious El Rincón Dish 10,16.3,True
+68199a10b7ac27f370bc0f68,Café Sol Dish 1,Delicious Café Sol Dish 1,16.41,True
+68199a10b7ac27f370bc0f68,Café Sol Dish 2,Delicious Café Sol Dish 2,18.68,False
+68199a10b7ac27f370bc0f68,Café Sol Dish 3,Delicious Café Sol Dish 3,14.49,False
+68199a10b7ac27f370bc0f68,Café Sol Dish 4,Delicious Café Sol Dish 4,18.03,False
+68199a10b7ac27f370bc0f68,Café Sol Dish 5,Delicious Café Sol Dish 5,15.4,True
+68199a10b7ac27f370bc0f68,Café Sol Dish 6,Delicious Café Sol Dish 6,6.26,False
+68199a10b7ac27f370bc0f68,Café Sol Dish 7,Delicious Café Sol Dish 7,18.93,True
+68199a10b7ac27f370bc0f68,Café Sol Dish 8,Delicious Café Sol Dish 8,19.57,False
+68199a10b7ac27f370bc0f68,Café Sol Dish 9,Delicious Café Sol Dish 9,5.85,False
+68199a10b7ac27f370bc0f68,Café Sol Dish 10,Delicious Café Sol Dish 10,15.16,False
+68199a10b7ac27f370bc0f69,Pasta House Dish 1,Delicious Pasta House Dish 1,8.29,False
+68199a10b7ac27f370bc0f69,Pasta House Dish 2,Delicious Pasta House Dish 2,9.57,False
+68199a10b7ac27f370bc0f69,Pasta House Dish 3,Delicious Pasta House Dish 3,14.3,False
+68199a10b7ac27f370bc0f69,Pasta House Dish 4,Delicious Pasta House Dish 4,10.08,True
+68199a10b7ac27f370bc0f69,Pasta House Dish 5,Delicious Pasta House Dish 5,16.22,True
+68199a10b7ac27f370bc0f69,Pasta House Dish 6,Delicious Pasta House Dish 6,17.31,False
+68199a10b7ac27f370bc0f69,Pasta House Dish 7,Delicious Pasta House Dish 7,10.47,True
+68199a10b7ac27f370bc0f69,Pasta House Dish 8,Delicious Pasta House Dish 8,8.44,True
+68199a10b7ac27f370bc0f69,Pasta House Dish 9,Delicious Pasta House Dish 9,8.97,True
+68199a10b7ac27f370bc0f69,Pasta House Dish 10,Delicious Pasta House Dish 10,10.9,True
